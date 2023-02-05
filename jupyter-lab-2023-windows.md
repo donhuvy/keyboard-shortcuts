@@ -1,4 +1,13 @@
+Jupyter lab - 2023
 
-bb
+b: Add new code block at bottom
 
-aa
+d d: Delete block
+
+Ctrl + Enter: Execute block
+
+Shift + Ctrl: Select a list of block, press Shift + M: Merge code block.
+
+Ctrl + Shift - : Split code block
+
+
