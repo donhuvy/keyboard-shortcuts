@@ -10,4 +10,4 @@ Shift + Ctrl: Select a list of block, press Shift + M: Merge code block.
 
 Ctrl + Shift - : Split code block
 
-
+Ctrl + , : Advance settings
