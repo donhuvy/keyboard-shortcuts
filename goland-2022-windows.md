@@ -12,3 +12,8 @@ Alt + E: Menu Edit
 
 Shift + F6: Rename file
 
+Ctrl + Shift + Y: Code with me
+
+Ctrl + Alt + Shift + T: Refactor this
+
+Ctrl + D: Duplicate line
