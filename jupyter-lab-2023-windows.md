@@ -1,4 +1,4 @@
-Jupyter lab - 2023
+# Jupyter lab 3.5.1 - 2023
 
 b: Add new code block at bottom
 
@@ -11,3 +11,4 @@ Shift + Ctrl: Select a list of block, press Shift + M: Merge code block.
 Ctrl + Shift - : Split code block
 
 Ctrl + , : Advance settings
+
